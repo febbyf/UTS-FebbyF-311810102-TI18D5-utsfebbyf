@@ -52,10 +52,4 @@ public class MainActivity extends AppCompatActivity {
         Intent tentang = new Intent(MainActivity.this, Tentang.class);
         startActivity(tentang);
     }
-
-    public void showMap(View view) {
-    }
-
-    public void tulisemail(View view) {
-    }
 }

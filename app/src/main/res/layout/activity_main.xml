@@ -34,7 +34,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/btnbuka"
         android:layout_marginTop="11dp"
-        android:onClick="tulisemail"
+        android:onClick="buka"
         android:text="@string/email"
         />
 
@@ -44,7 +44,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/btnemail"
         android:layout_marginTop="11dp"
-        android:onClick="showMap"
+        android:onClick="buka"
         android:text="@string/maps"
         />
 

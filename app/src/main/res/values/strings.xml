@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">utsfebbyf</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buka_browser">Buka Browser</string>
+    <string name="telepon">Telepon</string>
+    <string name="email">Email</string>
+    <string name="uts_febby_f">UTS FEBBY F</string>
+    <string name="maps">Maps</string>
+    <string name="tentang_aplikasi">TENTANG APLIKASI</string>
+</resources>
